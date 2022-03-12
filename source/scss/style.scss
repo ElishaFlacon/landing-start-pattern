@@ -1,0 +1,9 @@
+//Подключение шрифтов
+@import "fonts.scss";
+//Обнуление стилей
+@import "null.scss";
+//Основной код
+
+
+//Адаптив (ВСЕГДА В КОНЦЕ)
+@import "adaptation.scss";
