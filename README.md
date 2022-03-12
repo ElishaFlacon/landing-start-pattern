@@ -1,1 +1,1 @@
-# start-pattert-for-frontend
+# start pattert for frontend
