@@ -1,1 +1,1 @@
-# start pattert for frontend
+# Стартовый паттерн для удобного начала Fronend проекта
